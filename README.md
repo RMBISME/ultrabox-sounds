@@ -1,6 +1,6 @@
 # hi
 
-this is just my collection of custom samples to be used in ultrabox songs
+this is just my collection of custom samples to be used in [ultrabox](https://ultraabox.github.io) songs
 
 feel free to use these samples :)
 # info.txt
